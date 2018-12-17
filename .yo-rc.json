@@ -1,0 +1,33 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "fr.ippon.deoliveira.blackbelt"
+        },
+        "jhipsterVersion": "5.7.1",
+        "applicationType": "gateway",
+        "baseName": "gateway",
+        "packageName": "fr.ippon.deoliveira.blackbelt",
+        "packageFolder": "fr/ippon/deoliveira/blackbelt",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": false,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "YzkwNDU2Y2NmNjE2YzNhNDRmOTdlYTQxZTk5NjhiOTRmNjJjZGQ2ZmY5MWZkYTNkMTk3Y2Y3NmM1NGRkOGIxMjU4NDQ1ZWI5ODdhNDFkODM1NzNjODJhY2U0MDE3MWMzODk4MDBlMWMyYzk5YmJkMTVmMzY2YzRiYWM2YmQ1NWU=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
